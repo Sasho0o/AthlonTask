@@ -1,0 +1,6 @@
+.appContainer {
+  font-size: 14px;
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow: auto;
+}
